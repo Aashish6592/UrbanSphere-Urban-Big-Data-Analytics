@@ -1059,7 +1059,7 @@ UrbanSphere is being developed incrementally as an end-to-end Big Data analytics
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit7799&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
-### **Aashish**
+### **Aashish Yadav**
 
 **B.Tech — Computer Science & Engineering**  
 **BML Munjal University**
