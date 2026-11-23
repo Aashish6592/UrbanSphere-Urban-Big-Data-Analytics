@@ -1,0 +1,8 @@
+nearest_transit_corridor,sector_count,min_latitude,max_latitude,min_longitude,max_longitude,data_status
+Dwarka Expressway,17,28.4575,28.5076,76.9405,76.9994,derived_reference
+Faridabad-Gurgaon Rd,1,28.4288,28.4288,77.1511,77.1511,derived_reference
+Golf Course Road,16,28.4166,28.4669,77.0526,77.1234,derived_reference
+NH-48,11,28.342,28.4796,76.9241,77.0802,derived_reference
+NH-48 / Rapid Metro,1,28.4952,28.4952,77.0894,77.0894,derived_reference
+Sohna Road,1,28.3846,28.3846,77.0494,77.0494,derived_reference
+Sohna Road / SPR,76,28.3705,28.5038,76.9305,77.0702,derived_reference
